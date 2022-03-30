@@ -15,7 +15,7 @@
     <category field="science"/>
     <issn>2160-5319</issn>
     <summary>The Council of Science Editors style, Name-Year system: author-date in text, sorted in alphabetical order by author.</summary>
-    <updated>2022-03-29T21:58:15+00:00</updated>
+    <updated>2022-03-30T13:30:37+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -67,24 +67,18 @@
       <if variable="URL" match="any">
         <choose>
           <if match="none" variable="DOI">
-            <group delimiter=". ">
+            <group delimiter=" ">
               <choose>
-                <else>
-                  <group delimiter=" ">
-                    <choose>
-                      <if match="any" variable="accessed">
-                        <text term="accessed" prefix="["/>
-                        <date delimiter=" " variable="accessed" suffix="].">
-                          <date-part name="year"/>
-                          <date-part name="month" form="short" strip-periods="true"/>
-                          <date-part name="day"/>
-                        </date>
-                      </if>
-                    </choose>
-                    <text variable="URL" prefix="Available from: "/>
-                  </group>
-                </else>
+                <if match="any" variable="accessed">
+                  <text term="accessed" prefix="["/>
+                  <date delimiter=" " variable="accessed" suffix="].">
+                    <date-part name="year"/>
+                    <date-part name="month" form="short" strip-periods="true"/>
+                    <date-part name="day"/>
+                  </date>
+                </if>
               </choose>
+              <text variable="URL" prefix="Available from: "/>
             </group>
           </if>
         </choose>
@@ -240,14 +234,18 @@
           </if>
         </choose>
       </group>
-      <group prefix=", ">
-        <text macro="title" prefix=" "/>
-        <choose>
-          <if type="bill legislation" match="any">
-            <text macro="publiclaw"/>
-          </if>
-        </choose>
-      </group>
+      <choose>
+        <if type="bill legislation" match="any">
+          <group prefix=", ">
+            <text macro="title" prefix=" "/>
+            <choose>
+              <if type="bill legislation" match="any">
+                <text macro="publiclaw"/>
+              </if>
+            </choose>
+          </group>
+        </if>
+      </choose>
       <group suffix=".">
         <choose>
           <if type="bill book graphic legal_case legislation motion_picture report song thesis" match="any">
@@ -260,7 +258,6 @@
           </if>
           <else-if type="chapter paper-conference entry-dictionary entry-encyclopedia" match="any">
             <group delimiter=" " prefix=" ">
-              <group/>
               <group delimiter=" ">
                 <text term="in" text-case="capitalize-first" suffix=":"/>
                 <text macro="editor"/>
@@ -297,7 +294,7 @@
                 <text variable="page"/>
               </group>
             </group>
-            <text variable="DOI" prefix=". Available  from: https://doi.org/"/>
+            <text variable="DOI" prefix=". Available from: https://doi.org/"/>
           </else>
         </choose>
       </group>
@@ -305,6 +302,3 @@
     </layout>
   </bibliography>
 </style>
-
-
-
