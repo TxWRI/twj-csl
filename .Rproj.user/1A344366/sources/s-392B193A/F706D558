@@ -3,7 +3,7 @@
     "path": "C:/Data-Analysis-Projects/twj-csl/texas-water-journal-name-year.csl",
     "project_path": "texas-water-journal-name-year.csl",
     "type": "xml",
-    "hash": "3577311767",
+    "hash": "66707982",
     "contents": "",
     "dirty": false,
     "created": 1648573144167.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "304,0",
-        "scrollLine": "279"
+        "cursorPosition": "301,8",
+        "scrollLine": "276"
     },
     "folds": "",
-    "lastKnownWriteTime": 1648647069,
+    "lastKnownWriteTime": 1648648420,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1648647069281,
+    "last_content_update": 1648648420699,
     "read_only": false,
     "read_only_alternatives": []
 }
