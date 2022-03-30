@@ -1,0 +1,14 @@
+bookdown::bs4_book:
+  css: bs4_style.css
+  theme:
+    primary: "#096B72"
+    base_font:
+      google: Source Serif Pro
+    heading_font:
+      google: Oswald
+  repo: 
+    base: https://github.com/TxWRI/csl
+    branch: main
+    subdir: book
+  split_bib: true
+  footnotes_inline: false

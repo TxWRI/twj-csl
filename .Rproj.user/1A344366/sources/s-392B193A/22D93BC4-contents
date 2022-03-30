@@ -1,0 +1,412 @@
+---
+references:
+- id: borel_modeling_2012
+  author:
+    - family: Borel
+      given: Kyna
+    - family: Gregory
+      given: Lucas
+    - family: Karthikeyan
+      given: R.
+  citation-key: borel_modeling_2012
+  event-place: College Station, TX
+  genre: Technical Report
+  issued:
+    - year: 2012
+  number: '453'
+  publisher: Texas Water Resources Institute
+  publisher-place: College Station, TX
+  title: Modeling Support for the Attoyac Bayou Assessment Using Load Duration Curves
+  type: report
+  URL: >-
+    https://twri.tamu.edu/publications/technical-reports/2012-technical-reports/tr-453/
+
+- id: byers_phosphorus_2005
+  abstract: >-
+    Contamination of unfenced streams with P, sediments, and pathogenic bacteria
+    from cattle (Bos taurus) activity may be affected by the availability of
+    shade and alternative water sources. The objectives of this study were to
+    evaluate water quality in two streams draining tall fescue (Festuca
+    arundinacea Schreb.)–common bermudagrass (Cynodon dactylon L.) pastures with
+    different shade distribution, and to quantify the effects of alternative
+    water sources on stream water quality. For 3 yr, loads of dissolved reactive
+    phosphorus (DRP), total phosphorus (TP), and total suspended solids (TSS)
+    were measured during storm flow, and loads of DRP, TP, TSS, and Escherichia
+    coli were measured every 14 d during base flow. We also used GPS collars to
+    determine amount of time cattle spent in riparian areas. Our results showed
+    that cattle-grazed pastures with unfenced streams contributed significant
+    loads of DRP, TP, TSS, and E. coli to surface waters (p Ͻ 0.01). Time spent
+    by cattle in riparian areas as well as storm flow loads of DRP, TP, and TSS
+    were larger (p Ͻ 0.08) in the pasture with the smaller amount of nonriparian
+    shade. Water trough availability decreased base flow loads of TSS and E.
+    coli in both streams, and decreased time cattle spent in riparian areas in
+    the pasture with the smaller amount of nonriparian shade (p Ͻ 0.08). Our
+    results indicate that possible BMPs to reduce contamination from
+    cattle-grazed pastures would be to develop or encourage nonriparian shade
+    and to provide cattle with alternative water sources away from the stream.
+  accessed:
+    - year: 2018
+      month: 6
+      day: 22
+  author:
+    - family: Byers
+      given: H. L.
+    - family: Cabrera
+      given: M. L.
+    - family: Matthews
+      given: M. K.
+    - family: Franklin
+      given: D. H.
+    - family: Andrae
+      given: J. G.
+    - family: Radcliffe
+      given: D. E.
+    - family: McCann
+      given: M. A.
+    - family: Kuykendall
+      given: H. A.
+    - family: Hoveland
+      given: C. S.
+    - family: Calvert
+      given: V. H.
+  citation-key: byers_phosphorus_2005
+  container-title: Journal of Environment Quality
+  DOI: 10.2134/jeq2004.0335
+  ISSN: 1537-2537
+  issue: '6'
+  issued:
+    - year: 2005
+  language: en
+  page: '2293'
+  source: Crossref
+  title: >-
+    Phosphorus, sediment, and loads in unfenced streams of the Georgia Piedmont,
+    USA
+  type: article-journal
+  URL: https://www.agronomy.org/publications/jeq/abstracts/34/6/2293
+  volume: '34'
+
+- id: fouad_flow_2016
+  author:
+    - family: Fouad
+      given: Geoffrey G.
+  citation-key: fouad_flow_2016
+  event-place: San Diego, CA
+  genre: Dissertation
+  issued:
+    - year: 2016
+      month: 6
+  publisher: San Diego State University and University of California Santa Barbara
+  publisher-place: San Diego, CA
+  title: >-
+    Flow duration curve prediction for ungaged basins: A data driven study of
+    the contiguous United States
+  type: thesis
+  URL: https://escholarship.org/uc/item/0xf850hq
+
+- id: helsel_statistical_2020
+  author:
+    - family: Helsel
+      given: Dennis R
+    - family: Hirsch
+      given: Robert M
+    - family: Ryberg
+      given: Karen R.
+    - family: Archfield
+      given: Stacey A.
+    - family: Gilroy
+      given: E J
+  citation-key: helsel_statistical_2020
+  event-place: Reston, VA
+  issued:
+    - year: 2020
+  number-of-pages: '458'
+  publisher: USGS
+  publisher-place: Reston, VA
+  title: >-
+    Statistical methods in water resources: U.S. Geological Survey techniques
+    and methods, book 4, chapter A3
+  type: book
+  URL: https://doi.org/10.3133/tm4a3
+
+- id: james_introduction_2013
+  author:
+    - family: James
+      given: Gareth
+    - family: Witten
+      given: Daniela
+    - family: Hastie
+      given: Trevor
+    - family: Tibshirani
+      given: Robert
+  call-number: QA276 .I585 2013
+  citation-key: james_introduction_2013
+  collection-number: '103'
+  collection-title: Springer texts in statistics
+  event-place: New York
+  ISBN: 978-1-4614-7137-0
+  issued:
+    - year: 2013
+  language: en
+  note: 'OCLC: ocn828488009'
+  number-of-pages: '426'
+  publisher: Springer
+  publisher-place: New York
+  source: Library of Congress ISBN
+  title: 'An introduction to statistical learning: with applications in R'
+  title-short: An introduction to statistical learning
+  type: book
+
+- id: kip_impact_2016
+  author:
+    - family: Kip
+      given: Nathalie
+  citation-key: kip_impact_2016
+  event-place: Austin, TX
+  genre: Thesis
+  issued:
+    - year: 2016
+      month: 8
+  number-of-pages: '148'
+  publisher: University of Texas at Austin
+  publisher-place: Austin, TX
+  title: >-
+    The impact of the comprehensive watersheds ordinance on stream health in
+    Austin, Texas
+  type: thesis
+  URL: http://hdl.handle.net/2152/43590
+
+- id: lee_imaging_2003
+  author:
+    - family: Lee
+      given: D. J.
+    - family: Bates
+      given: D.
+    - family: Dromey
+      given: C.
+    - family: Xu
+      given: X.
+    - family: Antani
+      given: S.
+  citation-key: lee_imaging_2003
+  container-title: CBMS 2003
+  editor:
+    - family: Krol
+      given: M.
+    - family: Mitra
+      given: S.
+    - family: Lee
+      given: D. J.
+  event: Proceedings of the 16th IEEE Symposium on Computer-Based Medical Systems
+  event-date:
+    - year: 2017
+      month: 7
+      day: 20
+  event-place: New York
+  issued:
+    - year: 2003
+  page: 307-313
+  publisher: IEEE Computer Society
+  publisher-place: Los Alamitos (California)
+  title: >-
+    An imaging system correlating lip shapes with tongue contact patterns for
+    speech pathology research
+  type: paper-conference
+
+- id: noauthor_hb_2015
+  authority: 84th Legislature
+  chapter-number: 84th
+  citation-key: noauthor_hb_2015
+  issued:
+    - year: 2015
+  title: H.B. 3298
+  title-short: H.B. 3298
+  type: bill
+  URL: https://capitol.texas.gov/BillLookup/History.aspx?LegSess=84R&Bill=HB3298
+
+- id: noauthor_medical_1995
+  authority: 104th Cong.
+  chapter-number: 1st
+  citation-key: noauthor_medical_1995
+  issued:
+    - year: 1995
+  section: '1360'
+  title: Medical Records Confidentiality Act of 1995
+  title-short: Medical...
+  type: bill
+
+- id: noauthor_preventive_1993
+  citation-key: noauthor_preventive_1993
+  container-title: Stat.
+  issued:
+    - year: 1993
+      month: 12
+      day: 14
+  number: 103-183
+  section: '107'
+  title: Preventive Health Amendments of 1993
+  title-short: Preventive...
+  type: legislation
+  volume: '2266'
+
+- id: oconnor_geological_2013
+  accessed:
+    - year: 2018
+      month: 6
+      day: 22
+  author:
+    - family: Grant
+      given: Gordon E.
+    - family: Schmidt
+      given: John C.
+    - family: Lewis
+      given: Sarah L.
+  citation-key: oconnor_geological_2013
+  container-title: Water science and application
+  DOI: 10.1029/007WS13
+  editor:
+    - family: O'Connor
+      given: Jim E.
+    - family: Grant
+      given: Gordon E.
+  event-place: Washington, D. C.
+  ISBN: 978-1-118-66573-2 978-0-87590-356-9
+  issued:
+    - year: 2013
+      month: 3
+      day: 19
+  language: en
+  page: 203-219
+  publisher: American Geophysical Union
+  publisher-place: Washington, D. C.
+  source: Crossref
+  title: A geological framework for interpreting downstream effects of dams on rivers
+  type: chapter
+  URL: http://doi.wiley.com/10.1029/007WS13
+
+- id: padfield_nlsmultstart_2020
+  author:
+    - family: Padfield
+      given: Daniel
+    - family: Matheson
+      given: Granville
+  citation-key: padfield_nlsmultstart_2020
+  issued:
+    - year: 2020
+  title: 'nls.multstart: Robust Non-Linear Regression using AIC Scores'
+  type: book
+  URL: https://CRAN.R-project.org/package=nls.multstart
+
+- id: r_core_team_r_2021
+  author:
+    - literal: R Core Team
+  citation-key: r_core_team_r_2021
+  event-place: Vienna, Austria
+  issued:
+    - year: 2021
+  publisher: R Foundation for Statistical Computing
+  publisher-place: Vienna, Austria
+  title: 'R: A language and environment for statistical computing.'
+  type: book
+  URL: https://www.R-project.org/
+
+- id: schlanger_out_2018
+  author:
+    - family: Schlanger
+      given: Zoe
+  citation-key: schlanger_out_2018
+  container-title: Texas Observer
+  issued:
+    - year: 2018
+      month: 8
+      day: 20
+  title: >-
+    Out of Sight, out of water: The U.S. and Mexico have only just begun to
+    grapple with the aquifers they share
+  type: article-newspaper
+  URL: >-
+    https://www.texasobserver.org/out-of-sight-out-of-water-the-u-s-and-mexico-have-only-just-begun-to-grapple-with-the-aquifers-they-share/
+
+- id: schramm_data_2020
+  abstract: >-
+    This release includes pre-publication data, analysis, and figures. Subject
+    to revision after peer-review.
+  accessed:
+    - year: 2020
+      month: 12
+      day: 15
+  author:
+    - family: Schramm
+      given: Michael
+  citation-key: schramm_data_2020
+  DOI: 10.5281/ZENODO.4317858
+  issued:
+    - year: 2020
+      month: 12
+      day: 11
+  title: >-
+    Data and code for estimating statistical power for detecting long term
+    trends in surface water *Escherichia <span class="nocase">coli</span>*
+    concentrations
+  title-short: mps9506/schramm-ecoli-trends
+  type: webpage
+  URL: https://zenodo.org/record/4317858
+
+- id: wagner_assessment_2012
+  abstract: >-
+    Runoff of Escherichia coli and other fecal indicator bacteria from grazing
+    lands has been identified as a significant source of bacterial
+    contamination. Development of best management practices to address these
+    bacterial issues is critical to the success of watershed restoration efforts
+    where grazing is a substantial contributor. In the present study, grazing
+    management was evaluated to assess its effectiveness as a best management
+    practice. Specifically, runoff from rotationally grazed and ungrazed
+    approximately 1 ha pastures was monitored for more than two years using
+    automated samplers. E. coli levels in runoff were enumerated by membrane
+    filtration using modified membrane-thermotolerant Escherichia coli agar
+    (modified mTEC). The study found that background E. coli concentrations
+    (i.e., those from wildlife and soilborne naturalized strains) were
+    relatively consistent among sites. Median background E. coli concentrations
+    ranged from 3,500 to 5,500 colony forming units per 100 mL, which are not
+    inconsequential levels related to water quality assessment and
+    implementation efforts. Findings also indicated that rotational stocking, if
+    timed appropriately, reduced E. coli concentrations in runoff. The impact of
+    grazing timing in relation to runoff events was a more significant factor
+    than stocking rate on the rotationally stocked pastures. When runoff
+    occurred more than two weeks following grazing, E. coli levels were reduced
+    by more than 88% compared to runoff during or soon after grazing. As a
+    result, it is recommended that creek pastures and other hydrologically
+    connected pastures be grazed during periods when runoff is less likely and
+    that upland pastures be grazed during rainy seasons when runoff is more
+    likely to occur.
+  accessed:
+    - year: 2018
+      month: 6
+      day: 22
+  author:
+    - family: Wagner
+      given: K. L.
+    - family: Redmon
+      given: L. A.
+    - family: Gentry
+      given: T. J.
+    - family: Harmel
+      given: R. D.
+  citation-key: wagner_assessment_2012
+  container-title: Transactions of the ASABE
+  DOI: 10.13031/2013.42503
+  ISSN: 2151-0040
+  issue: '6'
+  issued:
+    - year: 2012
+  language: en
+  page: 2111-2122
+  source: Crossref
+  title: >-
+    Assessment of cattle grazing effects on *E.<span class="nocase">
+    coli</span>* runoff
+  type: article-journal
+  URL: >-
+    http://elibrary.asabe.org/abstract.asp??JID=3&AID=42503&CID=t2012&v=55&i=6&T=1
+  volume: '55'
+...
